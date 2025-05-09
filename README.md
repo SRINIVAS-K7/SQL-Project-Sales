@@ -1,6 +1,8 @@
 # SQL-Project-Sales
 
 -- selecting the Database
+
+
 use bike_sales
 
 
