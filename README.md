@@ -99,9 +99,8 @@ Tools Used :
 
 Conclusion :
 
-   This SQL sales project provides a comprehensive overview of retail sales data analysis using SQL. It is designed for learners to build strong SQL querying skills and 
+   This SQL sales project provides a comprehensive overview of retail sales data analysis using SQL. 
+   It is designed for learners to build strong SQL querying skills and 
    to apply SQL for real-world business intelligence and reporting tasks.
 
-
-
-
+-------------------------------------------------------------------------------------------------------------------------
